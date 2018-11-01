@@ -2,6 +2,7 @@
   "name": "bc_react",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://madongo.github.io/react_app/build/",
   "dependencies": {
     "@blueprintjs/core": "^3.7.0",
     "faker": "^4.1.0",
